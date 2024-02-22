@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.14)
+cmake_minimum_required(VERSION 3.10)
 project(unitree_guide)
 
 set(ROBOT_TYPE Go1)         # The type of robot, support Go1 and A1 currently
